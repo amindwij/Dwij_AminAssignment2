@@ -1,0 +1,40 @@
+.full-screen {
+  height: 100vh;
+}
+body {
+  background-color: rgb(183, 212, 202);
+}
+
+
+.container-fluid {
+  margin-top: 50px;
+}
+
+.card {
+  width: 32rem;
+  border-radius: 15px;
+}
+
+.card-header {
+  text-align: center;
+  background-color: #007bff;
+  color: white;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.form-group {
+  margin-bottom: 0;
+}
+
+.btn {
+  margin-top: 20px;
+}
+
+.card-footer {
+  min-height: 50px;
+}
